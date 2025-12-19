@@ -1,0 +1,207 @@
+{
+  "surgeries": {
+    "1": {
+      "id": 1,
+      "surgery_name": "General Surgery"
+    },
+    "2": {
+      "id": 2,
+      "surgery_name": "Cardiac Surgery"
+    },
+    "3": {
+      "id": 3,
+      "surgery_name": "Neurosurgery"
+    },
+    "4": {
+      "id": 4,
+      "surgery_name": "Orthopedic Surgery"
+    },
+    "5": {
+      "id": 5,
+      "surgery_name": "Gynecological Surgery"
+    },
+    "6": {
+      "id": 6,
+      "surgery_name": "Pediatric Surgery"
+    },
+    "7": {
+      "id": 7,
+      "surgery_name": "Emergency Surgery"
+    },
+    "8": {
+      "id": 8,
+      "surgery_name": "Outpatient Procedure"
+    },
+    "9": {
+      "id": 9,
+      "surgery_name": "Plastic Surgery"
+    },
+    "10": {
+      "id": 10,
+      "surgery_name": "Urological Surgery"
+    },
+    "11": {
+      "id": 11,
+      "surgery_name": "Thoracic Surgery"
+    },
+    "12": {
+      "id": 12,
+      "surgery_name": "Vascular Surgery"
+    }
+  },
+  "drugs": {
+    "1": {
+      "id": 1,
+      "drug_name": "Propofol",
+      "min_dose": 1.0,
+      "max_dose": 2.5,
+      "concentration": 10.0,
+      "unit": "mg/kg",
+      "category": "Induction Agent"
+    },
+    "2": {
+      "id": 2,
+      "drug_name": "Etomidate",
+      "min_dose": 0.2,
+      "max_dose": 0.6,
+      "concentration": 2.0,
+      "unit": "mg/kg",
+      "category": "Induction Agent"
+    },
+    "3": {
+      "id": 3,
+      "drug_name": "Ketamine",
+      "min_dose": 1.0,
+      "max_dose": 2.0,
+      "concentration": 50.0,
+      "unit": "mg/kg",
+      "category": "Induction Agent"
+    },
+    "4": {
+      "id": 4,
+      "drug_name": "Thiopental",
+      "min_dose": 3.0,
+      "max_dose": 5.0,
+      "concentration": 25.0,
+      "unit": "mg/kg",
+      "category": "Induction Agent"
+    },
+    "5": {
+      "id": 5,
+      "drug_name": "Midazolam",
+      "min_dose": 0.02,
+      "max_dose": 0.1,
+      "concentration": 1.0,
+      "unit": "mg/kg",
+      "category": "Sedative"
+    },
+    "6": {
+      "id": 6,
+      "drug_name": "Dexmedetomidine",
+      "min_dose": 0.0005,
+      "max_dose": 0.001,
+      "concentration": 0.1,
+      "unit": "mg/kg",
+      "category": "Sedative"
+    },
+    "7": {
+      "id": 7,
+      "drug_name": "Fentanyl",
+      "min_dose": 0.001,
+      "max_dose": 0.002,
+      "concentration": 0.05,
+      "unit": "mg/kg",
+      "category": "Opioid"
+    },
+    "8": {
+      "id": 8,
+      "drug_name": "Morphine",
+      "min_dose": 0.1,
+      "max_dose": 0.2,
+      "concentration": 1.0,
+      "unit": "mg/kg",
+      "category": "Opioid"
+    },
+    "9": {
+      "id": 9,
+      "drug_name": "Alfentanil",
+      "min_dose": 0.01,
+      "max_dose": 0.02,
+      "concentration": 0.5,
+      "unit": "mg/kg",
+      "category": "Opioid"
+    },
+    "10": {
+      "id": 10,
+      "drug_name": "Remifentanil",
+      "min_dose": 0.00005,
+      "max_dose": 0.002,
+      "concentration": 0.05,
+      "unit": "mg/kg/min",
+      "category": "Opioid"
+    },
+    "11": {
+      "id": 11,
+      "drug_name": "Succinylcholine",
+      "min_dose": 1.0,
+      "max_dose": 1.5,
+      "concentration": 20.0,
+      "unit": "mg/kg",
+      "category": "Muscle Relaxant"
+    },
+    "12": {
+      "id": 12,
+      "drug_name": "Rocuronium",
+      "min_dose": 0.6,
+      "max_dose": 1.2,
+      "concentration": 10.0,
+      "unit": "mg/kg",
+      "category": "Muscle Relaxant"
+    },
+    "13": {
+      "id": 13,
+      "drug_name": "Vecuronium",
+      "min_dose": 0.08,
+      "max_dose": 0.1,
+      "concentration": 1.0,
+      "unit": "mg/kg",
+      "category": "Muscle Relaxant"
+    },
+    "14": {
+      "id": 14,
+      "drug_name": "Cisatracurium",
+      "min_dose": 0.1,
+      "max_dose": 0.2,
+      "concentration": 2.0,
+      "unit": "mg/kg",
+      "category": "Muscle Relaxant"
+    },
+    "15": {
+      "id": 15,
+      "drug_name": "Lidocaine",
+      "min_dose": 1.0,
+      "max_dose": 1.5,
+      "concentration": 10.0,
+      "unit": "mg/kg",
+      "category": "Local Anesthetic"
+    },
+    "16": {
+      "id": 16,
+      "drug_name": "Bupivacaine",
+      "min_dose": 0.25,
+      "max_dose": 0.5,
+      "concentration": 2.5,
+      "unit": "mg/kg",
+      "category": "Local Anesthetic"
+    },
+    "17": {
+      "id": 17,
+      "drug_name": "Ropivacaine",
+      "min_dose": 0.25,
+      "max_dose": 0.5,
+      "concentration": 2.0,
+      "unit": "mg/kg",
+      "category": "Local Anesthetic"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660025187099",
+    "project_id": "acp-app-9efd5",
+    "storage_bucket": "acp-app-9efd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660025187099:android:d363f8b373b9f798d3d1be",
+        "android_client_info": {
+          "package_name": "com.anesthesiacalculator.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0zC8cEGIyOl6eLeiZAouAnDIijGHFfFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Theme Colors for Dark Mode -->
+    <color name="primary_color">#FF2196F3</color>
+    <color name="primary_dark">#FF1565C0</color>
+    <color name="secondary_color">#FF4CAF50</color>
+    <color name="accent_color">#FFFF9800</color>
+    <color name="tertiary_color">#FF9C27B0</color>
+    
+    <!-- Text Colors for Dark Mode -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFBDBDBD</color>
+    <color name="text_hint">#FF757575</color>
+    
+    <!-- Background Colors for Dark Mode -->
+    <color name="background_light">#FF121212</color>
+    <color name="background_dark">#FF000000</color>
+    <color name="surface_light">#FF1E1E1E</color>
+    <color name="surface_dark">#FF2D2D2D</color>
+    
+    <!-- Status Colors (same for both themes) -->
+    <color name="success_color">#FF4CAF50</color>
+    <color name="warning_color">#FFFF9800</color>
+    <color name="error_color">#FFF44336</color>
+    <color name="info_color">#FF2196F3</color>
+    
+    <!-- Gradient Colors for Dark Mode -->
+    <color name="gradient_start">#FF1976D2</color>
+    <color name="gradient_center">#FF303F9F</color>
+    <color name="gradient_end">#FF512DA8</color>
+</resources>
